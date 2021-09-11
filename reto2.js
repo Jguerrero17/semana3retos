@@ -33,6 +33,6 @@ function calculateDogAge(age) {
     console.log("Tu perrito tiene " + dogAge + " años en años de perro!");
 }
 
-calculateDogAge(1);
-calculateDogAge(0.5);
-calculateDogAge(12);
+calculateDogAge(5);
+calculateDogAge(3);
+calculateDogAge(10);
